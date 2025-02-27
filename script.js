@@ -11,5 +11,4 @@ function minCost(arr) {
     return cost;
 }
 
-
 module.exports=mincost;
